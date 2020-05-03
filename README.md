@@ -1,5 +1,6 @@
 # SumItUp
 SumItUp! An online game to test your memory skills!
+Should be available to play here: https://sumitup.tk/
 
 **Won firt place for Innovation at DPCDSB Game Making Contest 2020 (2nd Year in a row)**
 
@@ -23,4 +24,12 @@ SumItUp! An online game to test your memory skills!
 - Python (one version of algorithm uses NLP)
 - HTML/CSS
 
-Should be available to play here: https://sumitup.tk/
+## To-Do:
+- [x] Sprites
+- [x] Style website
+- [ ] Refine Algorithm
+- [ ] Make waiting rooms
+- [ ] Add categories of questions (Math, Sciences, History...)
+- [ ] Add more player ability
+- [ ] Add sign up, login
+- [ ] Style website to be neutral and add categories for different subjects
