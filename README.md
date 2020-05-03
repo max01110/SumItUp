@@ -14,8 +14,8 @@ SumItUp! An online game to test your memory skills!
 - Uses keywords and compares to answer
 - Grammar check
 - **Not fully implemented yet!**
-- Use NLP -> Natural Language Processing
-- This library uses AI and other amazing tools that we could use to determine which player has the best "answer"
+  - Use NLP -> Natural Language Processing
+  - This library uses AI and other amazing tools that we could use to determine which player has the best "answer"
 
 ## Coded With
 - Node.js
