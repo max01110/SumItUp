@@ -1,5 +1,5 @@
 # SumItUp
-SumItUp! An online game to test your memory skills!
+SumItUp! An online game to test your memory skills! 1st Place Game Making Contest
 Should be available to play here: https://sumitup.tk/
 
 **Won firt place for Innovation at DPCDSB Game Making Contest 2020 (2nd Year in a row)**
