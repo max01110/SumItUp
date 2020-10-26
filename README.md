@@ -14,7 +14,7 @@ Should be available to play here: https://sumitup.tk/
 ## Algorithm
 - Uses keywords and compares to answer
 - Grammar check
-- Use NLP -> Natural Language Processing
+- spaCY API - Uses NLP -> Natural Language Processing
 - This library uses AI and other amazing tools that we could use to determine which player has the best "answer"
 
 ## Coded With
