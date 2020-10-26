@@ -20,7 +20,7 @@ Should be available to play here: https://sumitup.tk/
 ## Coded With
 - Node.js
 - p5 
-- Python (one version of algorithm uses NLP)
+- Python (one version of algorithm uses NLP with spaCY API)
 - HTML/CSS
 
 ## To-Do:
